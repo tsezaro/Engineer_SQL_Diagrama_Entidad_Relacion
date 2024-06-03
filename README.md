@@ -1,13 +1,4 @@
-Challenge - Analytics Engineer
-
-Challenge Engineer - Primera Parte – SQL
-
-Puntos a evaluar 
-•	Interpretación de la consigna 
-•	Orden y comentarios del código 
-•	Queries simples y efectivas 
-•	Calidad del entregable 
-•	Si pensás en otro punto que pueda sumar, sentite libre de agregarlo y comentarnos cuál es y por qué lo sumaste.
+Engineer – SQL
 
 Objetivo
 A partir de la siguiente necesidad, se requiere diseñar un DER que responda al modelo del negocio. Luego, se debe responder mediante SQL diferentes preguntas. 
